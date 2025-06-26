@@ -1,4 +1,4 @@
-英文|[中文](https://github.com/jokerknight/PostPushForworder/blob/main/README.md)
+英文|[中文](https://github.com/jokerknight/PostPushForworder/blob/main/README.zh-CN.md)
 # PostPushForworder
 
 Automatically forward post-publish events from Halo and WordPress blogs to multiple platforms:  
