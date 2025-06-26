@@ -2,7 +2,6 @@
 # PostPushForworder
 
 支持将 Halo 或 WordPress 博客的文章发布事件自动推送到多个平台：  
-**Telegram、Slack、Discord、企业微信机器人、微信公众号**
 - ✈️ Telegram
 - #️⃣ Slack
 - 🎮 Discord
