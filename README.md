@@ -8,12 +8,12 @@ Automatically forward post-publish events from Halo and WordPress blogs to multi
 
 ## Features
 
-- Multi-channel support
-- Markdown message formatting
-- Logging support
-- Easy `.env` configuration
-- Dockerized deployment
-- Supports Halo Webhook plugin and WordPress (via WP Webhooks Pro plugin)
+- ✅ Multi-channel support
+- ✅ Markdown message formatting
+- ✅ Logging support
+- ✅ Easy `.env` configuration
+- ✅ Dockerized deployment
+- ✅ Supports Halo Webhook plugin and WordPress (via WP Webhooks Pro plugin)
 - ✅ Supports multiple channels at once via comma-separated `CHANNEL`
 
 ---

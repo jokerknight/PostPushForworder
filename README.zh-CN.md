@@ -8,13 +8,13 @@
 
 ## 功能亮点
 
-- 多平台推送支持
-- 支持 Markdown 消息格式
-- 日志输出
-- 环境变量配置简单灵活
-- 支持 Docker 容器部署
+- ✅ 多平台推送支持
+- ✅ 支持 Markdown 消息格式
+- ✅ 日志输出
+- ✅ 环境变量配置简单灵活
+- ✅ 支持 Docker 容器部署
 - ✅ 支持同时推送到多个渠道（`CHANNEL=telegram,slack,...`）
-- 支持 Halo(WebHook 插件) 和 WordPress（WP Webhooks Pro 插件）
+- ✅ 支持 Halo(WebHook 插件) 和 WordPress（WP Webhooks Pro 插件）
 
 ---
 
