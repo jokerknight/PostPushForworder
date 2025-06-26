@@ -26,8 +26,8 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/halo-webhook-forwarder.git
-cd halo-webhook-forwarder
+git clone https://github.com/jokerknight/PostPushForworder.git
+cd PostPushForworder
 ```
 
 ### 2. 配置 `.env`

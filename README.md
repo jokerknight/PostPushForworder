@@ -26,8 +26,8 @@ Automatically forward post-publish events from Halo and WordPress blogs to multi
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/yourusername/halo-webhook-forwarder.git
-cd halo-webhook-forwarder
+git clone https://github.com/jokerknight/PostPushForworder.git
+cd PostPushForworder
 ```
 
 ### 2. Configure Environment Variables
