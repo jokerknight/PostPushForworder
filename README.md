@@ -2,8 +2,11 @@
 # PostPushForworder
 
 Automatically forward post-publish events from Halo and WordPress blogs to multiple platforms:  
-**Telegram, Slack, Discord, WeChat Work Bot, and WeChat Official Account.**
-
+- ✈️ Telegram
+- #️⃣ Slack
+- 🎮 Discord
+- 💼 WeChat Work Bot
+- 🟦 WeChat Public Push
 ---
 
 ## Features
