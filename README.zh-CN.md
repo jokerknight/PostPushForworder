@@ -1,3 +1,4 @@
+[英文](README.md)|中文
 # PostPushForworder
 
 支持将 Halo 或 WordPress 博客的文章发布事件自动推送到多个平台：  
@@ -13,7 +14,7 @@
 - 环境变量配置简单灵活
 - 支持 Docker 容器部署
 - ✅ 支持同时推送到多个渠道（`CHANNEL=telegram,slack,...`）
-- 支持 Halo 和 WordPress（WP Webhooks Pro 插件）
+- 支持 Halo(WebHook 插件) 和 WordPress（WP Webhooks Pro 插件）
 
 ---
 
