@@ -42,6 +42,12 @@ function log(message) {
 // Webhook 接收接口
 // 兼容 Halo 和 WordPress (WP Webhooks Pro) 的文章发布事件
 app.post('/webhook', async (req, res) => {
+  const token = req.headers['x-webhook-token'] || req.query.token;
+
+  if (WEBHOOK_TOKEN && token !== WEBHOOK_TOKEN) {
+    log('[WARN] Invalid or missing webhook token');
+    return res.status(403).json({ error: 'Invalid or missing webhook token' });
+  }
   // Halo 格式处理
   if (req.body.event === 'post_published' && req.body.data) {
     const title = req.body.data.title || '无标题';
